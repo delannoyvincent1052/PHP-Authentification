@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1edcb3b1-b352-4a9e-8b89-53e87ecc775c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fczGrdpCzfU8Y0q5EE4qdWKMr9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="TEXT&#10;GitIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1edcb3b1-b352-4a9e-8b89-53e87ecc775c" name="Default Changelist" comment="" />
+      <created>1596532084601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596532084601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="131" width="1024" height="852" key="#Project_Structure" timestamp="1596532134944">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="479" y="131" width="1024" height="852" key="#Project_Structure/72.27.1848.1053@72.27.1848.1053" timestamp="1596532134944" />
+    <state x="747" y="432" width="488" height="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1596532650466">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="747" y="432" width="488" height="249" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/72.27.1848.1053@72.27.1848.1053" timestamp="1596532650466" />
+    <state x="767" y="297" width="447" height="520" key="FileChooserDialogImpl" timestamp="1596532246990">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="767" y="297" width="447" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1596532246990" />
+    <state x="787" y="456" width="417" height="201" key="Github.CreateGistDialog" timestamp="1596532938298">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="787" y="456" width="417" height="201" key="Github.CreateGistDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596532938298" />
+    <state x="811" y="453" width="370" height="207" key="Github.ShareDialog" timestamp="1596532401414">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="811" y="453" width="370" height="207" key="Github.ShareDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596532401414" />
+    <state x="723" y="233" width="535" height="647" key="Github.UntrackedFilesDialog" timestamp="1596532557019">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="723" y="233" width="535" height="647" key="Github.UntrackedFilesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596532557019" />
+    <state x="676" y="454" width="630" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596533758577">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="676" y="454" width="630" height="206" key="git4idea.remote.GitConfigureRemotesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1596533758577" />
+    <state x="659" y="259" key="search.everywhere.popup" timestamp="1596532155458">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1596532155458" />
+  </component>
+</project>
